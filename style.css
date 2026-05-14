@@ -8,6 +8,10 @@ img {
 	margin-right: auto;
 	font-size: 100px;
 	
+table {
+	margin-left: auto;
+}
+	
 }
 p{
 	text-align: center;
